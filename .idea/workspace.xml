@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52872fc2-eb97-452b-a0db-63d9255093ee" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/api/Sale.java" afterPath="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/api/Sale.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/AdjustmentRecord.java" afterPath="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/AdjustmentRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/SaleRecord.java" afterPath="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/SaleRecord.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImplTest.java" afterPath="$PROJECT_DIR$/src/test/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImplTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -51,11 +47,41 @@
       <file leaf-file-name="SalesMessageProcessorImplTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImplTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2272">
-              <caret line="142" column="54" lean-forward="false" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
+            <state relative-caret-position="450">
+              <caret line="160" column="53" lean-forward="false" selection-start-line="160" selection-start-column="53" selection-end-line="160" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encodings.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbnavigator.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/dbnavigator.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -464,11 +490,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/Adjustment.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/api/SalesMessageProcessor.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/test/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImplTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/SaleRecord.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/impl/AdjustmentRecord.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/jpmorgan/salesprocessor/api/Sale.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImplTest.java" />
       </list>
     </option>
   </component>
@@ -536,80 +562,7 @@
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jpmorgan" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jpmorgan" type="462c0819:PsiDirectoryNode" />
-              <item name="salesprocessor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jpmorgan" type="462c0819:PsiDirectoryNode" />
-              <item name="salesprocessor" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding Test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="jpmorgan" type="462c0819:PsiDirectoryNode" />
-              <item name="salesprocessor" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="interview" type="b2602c69:ProjectViewProjectNode" />
@@ -694,7 +647,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SalesMessageProcessorImplTest">
+  <component name="RunManager" selected="TestNG.SalesMessageProcessorImplTest.testAfter50SalesNewSalesAreNotAccepted">
     <configuration name="SalesMessageProcessorImplTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -711,38 +664,6 @@
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="SalesMessageProcessorImplTest.sendMessageWithASaleAndMULTIPLYAdjustment" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.jpmorgan.salesprocessor.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="interview_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.jpmorgan.salesprocessor.impl" />
-      <option name="MAIN_CLASS_NAME" value="com.jpmorgan.salesprocessor.impl.SalesMessageProcessorImplTest" />
-      <option name="METHOD_NAME" value="sendMessageWithASaleAndMULTIPLYAdjustment" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -855,6 +776,38 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="SalesMessageProcessorImplTest.testAfter50SalesNewSalesAreNotAccepted" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.jpmorgan.salesprocessor.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="interview_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.jpmorgan.salesprocessor.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.jpmorgan.salesprocessor.impl.SalesMessageProcessorImplTest" />
+      <option name="METHOD_NAME" value="testAfter50SalesNewSalesAreNotAccepted" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -936,19 +889,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.sendMessageWithASaleAndMULTIPLYAdjustment" />
-      <item index="1" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test10Sales" />
-      <item index="2" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test50SalesWithNoAdjustments" />
-      <item index="3" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test50SalesWithAdjustment" />
-      <item index="4" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest" />
+      <item index="0" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test10Sales" />
+      <item index="1" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test50SalesWithNoAdjustments" />
+      <item index="2" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test50SalesWithAdjustment" />
+      <item index="3" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest" />
+      <item index="4" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.testAfter50SalesNewSalesAreNotAccepted" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test50SalesWithAdjustment" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test50SalesWithNoAdjustments" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test10Sales" />
-        <item index="4" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.sendMessageWithASaleAndMULTIPLYAdjustment" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.testAfter50SalesNewSalesAreNotAccepted" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test50SalesWithAdjustment" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test50SalesWithNoAdjustments" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.SalesMessageProcessorImplTest.test10Sales" />
       </list>
     </recent_temporary>
   </component>
@@ -981,17 +934,14 @@
     <history-entry file="SalesMessageProcessorImplTest - 2017.11.06 at 02h 38m 46s.xml">
       <configuration name="SalesMessageProcessorImplTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="SalesMessageProcessorImplTest_sendMessageWithASaleAndADDAdjustment - 2017.11.06 at 02h 12m 56s.xml">
-      <configuration name="SalesMessageProcessorImplTest.sendMessageWithASaleAndADDAdjustment" configurationId="TestNG" />
+    <history-entry file="SalesMessageProcessorImplTest - 2017.11.06 at 02h 42m 41s.xml">
+      <configuration name="SalesMessageProcessorImplTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SalesMessageProcessorImplTest - 2017.11.06 at 02h 43m 12s.xml">
+      <configuration name="SalesMessageProcessorImplTest" configurationId="TestNG" />
     </history-entry>
     <history-entry file="SalesMessageProcessorImplTest_sendMessageWithASaleAndMULTIPLYAdjustment - 2017.11.06 at 02h 13m 05s.xml">
       <configuration name="SalesMessageProcessorImplTest.sendMessageWithASaleAndMULTIPLYAdjustment" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SalesMessageProcessorImplTest_sendMessageWithASaleAndRepetition - 2017.11.06 at 02h 12m 53s.xml">
-      <configuration name="SalesMessageProcessorImplTest.sendMessageWithASaleAndRepetition" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="SalesMessageProcessorImplTest_sendMessageWithASaleAndSUBTRACTAdjustment - 2017.11.06 at 02h 13m 00s.xml">
-      <configuration name="SalesMessageProcessorImplTest.sendMessageWithASaleAndSUBTRACTAdjustment" configurationId="TestNG" />
     </history-entry>
     <history-entry file="SalesMessageProcessorImplTest_test10Sales - 2017.11.06 at 02h 13m 09s.xml">
       <configuration name="SalesMessageProcessorImplTest.test10Sales" configurationId="TestNG" />
@@ -1005,9 +955,13 @@
     <history-entry file="SalesMessageProcessorImplTest_test50SalesWithNoAdjustments - 2017.11.06 at 02h 13m 12s.xml">
       <configuration name="SalesMessageProcessorImplTest.test50SalesWithNoAdjustments" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="SalesMessageProcessorImplTest_testAfter50SalesNewSalesAreNotAccepted - 2017.11.06 at 02h 46m 12s.xml">
+      <configuration name="SalesMessageProcessorImplTest.testAfter50SalesNewSalesAreNotAccepted" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="896" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1265,10 +1219,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dbnavigator.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/jpmorgan/salesprocessor/impl/SalesMessageProcessorImplTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2272">
-          <caret line="142" column="54" lean-forward="false" selection-start-line="142" selection-start-column="54" selection-end-line="142" selection-end-column="54" />
+        <state relative-caret-position="450">
+          <caret line="160" column="53" lean-forward="false" selection-start-line="160" selection-start-column="53" selection-end-line="160" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

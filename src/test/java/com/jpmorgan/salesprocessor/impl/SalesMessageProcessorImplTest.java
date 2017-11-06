@@ -146,4 +146,21 @@ public class SalesMessageProcessorImplTest {
         Assert.assertTrue(arrayOutputStream.toString().contains( SalesMessageProcessorImpl.ADJUSTMENT_LOG));
     }
 
+    @Test
+    public void testAfter50SalesNewSalesAreNotAccepted() throws Sale.InvalidSaleValueException {
+        ByteArrayOutputStream arrayOutputStream = new ByteArrayOutputStream();
+        System.setOut(new PrintStream(arrayOutputStream,true));
+        SalesMessageProcessorImpl processor = new SalesMessageProcessorImpl();
+
+        for(int i=0;i<50;i++){
+            processor.sendMessage(new Sale("Apple",1));
+        }
+
+        processor.sendMessage(new Sale("Apple",1));
+        Assert.assertEquals(processor.getTotalSales().get("Apple").intValue(),50);
+        Assert.assertEquals(processor.getTotalValue().get("Apple").intValue(),50);
+    }
+
+
+
 }
