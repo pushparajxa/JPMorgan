@@ -34,10 +34,6 @@ public class Sale implements Serializable{
         return value;
     }
 
-    public void setType(String type) {
-        this.type = type;
-    }
-
     public void setValue(long value) {
         this.value = value;
     }

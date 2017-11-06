@@ -6,9 +6,6 @@ class AdjustmentRecord {
     private AdjustmentOperation operation;
     private int value;
 
-
-
-
     AdjustmentRecord(AdjustmentOperation operation,int value){
         this.operation = operation;
         this.value = value;

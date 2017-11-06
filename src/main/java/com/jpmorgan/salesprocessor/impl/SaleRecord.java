@@ -14,15 +14,9 @@ import com.jpmorgan.salesprocessor.api.Sale;
          return sale;
      }
 
-     public void setSale(Sale sale) {
-         this.sale = sale;
-     }
 
      public int getRepetition() {
          return repetition;
      }
 
-     public void setRepetition(int repetition) {
-         this.repetition = repetition;
-     }
  }

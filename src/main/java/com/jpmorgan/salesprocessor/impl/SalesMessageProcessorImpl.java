@@ -149,38 +149,4 @@ public class SalesMessageProcessorImpl implements SalesMessageProcessor {
         return adjustments;
     }
 
-    protected long getMessageCount() {
-        return messageCount;
-    }
-
-    protected boolean isAcceptMessages() {
-        return acceptMessages;
-    }
-
-
-    protected void setRecords(Hashtable<String,List<SaleRecord>> records) {
-        this.records = records;
-    }
-
-    protected void setTotalValue(Hashtable<String,Long> totalValue) {
-        this.totalValue = totalValue;
-    }
-
-    protected void setTotalSales(Hashtable<String,Long> totalSales) {
-        this.totalSales = totalSales;
-    }
-
-    protected void setAdjustments(Hashtable<String,List<AdjustmentRecord>> adjustments) {
-        this.adjustments = adjustments;
-    }
-
-    protected void setMessageCount(long messageCount) {
-        this.messageCount = messageCount;
-    }
-
-    protected void setAcceptMessages(boolean acceptMessages) {
-        this.acceptMessages = acceptMessages;
-    }
-
-
 }
